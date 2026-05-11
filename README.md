@@ -35,6 +35,14 @@ fuel type, transmission, and car age using Linear Regression.
 3. Upload the CSV when prompted
 4. Run all cells top to bottom
 
+## Output
+
+<img width="690" height="490" alt="car_chart_1" src="https://github.com/user-attachments/assets/8ee4f007-35e7-4c10-9a33-ca94437ec26d" />
+
+
+<img width="630" height="470" alt="car_chart_2" src="https://github.com/user-attachments/assets/d53df001-d974-4375-9be7-868f943f0b09" />
+
+
 ## Internship
 This project was completed as part of the 
 **CodeAlpha Data Science Internship Program**
